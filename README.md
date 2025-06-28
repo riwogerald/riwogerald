@@ -156,67 +156,6 @@ philosophy: "Never let the future disturb you. You will meet it, if you have to,
   <img src="https://github-profile-trophy.vercel.app/?username=riwogerald&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies" />
 </div>
 
-<div align="center">
-
-### 🎯 **2024 Goals & Progress**
-
-| Goal | Status | Progress | Notes |
-|------|--------|----------|-------|
-| Master TypeScript | ✅ **Completed** | 100% | Building production apps with TS |
-| Learn Cloud Architecture | 🚧 **In Progress** | 75% | AWS Solutions Architect path |
-| Contribute to Open Source | ✅ **Ongoing** | 60% | 15+ contributions this year |
-| Build Full-Stack Projects | ✅ **Ongoing** | 80% | 5 major projects completed |
-| Learn DevOps & CI/CD | 🚧 **In Progress** | 65% | Docker & GitHub Actions |
-| Mobile Development | 📋 **Planned** | 0% | React Native exploration |
-
-</div>
-
-## 💼 Featured Projects & Work
-
-<div align="center">
-
-### 🌟 **Project Highlights**
-
-| Project | Tech Stack | Description | Status |
-|---------|------------|-------------|--------|
-| **E-Commerce Platform** | Django, React, PostgreSQL | Full-stack marketplace with payment integration | 🚀 **Live** |
-| **Task Management API** | Node.js, Express, MongoDB | RESTful API with authentication & real-time updates | ✅ **Complete** |
-| **Data Visualization Dashboard** | Python, Django, Chart.js | Interactive analytics dashboard for business metrics | 🚧 **Development** |
-| **Chat Application** | React, Socket.io, Node.js | Real-time messaging with file sharing capabilities | ✅ **Complete** |
-
-</div>
-
-## 🎯 Current Focus & Learning Path
-
-```javascript
-const gerald2024 = {
-    currentlyLearning: [
-        "AWS Solutions Architecture",
-        "Microservices Design Patterns", 
-        "Advanced React Patterns",
-        "System Design & Scalability"
-    ],
-    workingOn: [
-        "Personal Portfolio Website",
-        "Open Source Django Package",
-        "Technical Blog Series",
-        "Mentoring Junior Developers"
-    ],
-    nextGoals: [
-        "AWS Certification",
-        "Contributing to major OSS projects",
-        "Speaking at tech conferences",
-        "Building SaaS products"
-    ],
-    askMeAbout: [
-        "Full Stack Development",
-        "Database Design & Optimization", 
-        "API Architecture",
-        "Code Review & Best Practices",
-        "Career Transition to Tech"
-    ],
-    funFact: "I can debug code faster than I can explain why it works! 🐛➡️✨"
-};
 ```
 
 ## 📈 Weekly Development Breakdown
@@ -234,7 +173,11 @@ Ruby         ██████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 
 <div align="center">
 
-> *"The best way to predict the future is to create it"* - Peter Drucker
+> *"Sometimes even to live is an act of courage."* - Lucius Annaeus Seneca the Younger 
+
+> *"It takes considerable knowledge just to realize the extent of your own ignorance."* - Thomas Sowell
+
+> *"What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose."* - Margaret Thatcher
 
 ### 🎨 **Development Principles**
 
@@ -265,7 +208,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
 - 🎤 **Speaking opportunities** - Tech talks & workshops
 
 **What I Bring:**
-- ✅ 3+ years of production experience
+- ✅ Production experience
 - ✅ Strong problem-solving skills
 - ✅ Excellent communication & teamwork
 - ✅ Passion for clean, maintainable code
@@ -284,8 +227,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
 
 ### 💬 **Quick Response Times**
 - 📧 Email: Within 24 hours
-- 💼 LinkedIn: Within 12 hours  
-- 🚀 Urgent projects: Same day
+- 💼 LinkedIn: Within 24 hours  
 
 </div>
 
@@ -296,7 +238,7 @@ I'm always excited to work on innovative projects and connect with fellow develo
 ```python
 class Gerald:
     def __init__(self):
-        self.coffee_cups_per_day = 4
+        self.coffee_cups_per_day = 1
         self.favorite_debugging_method = "print() statements"
         self.code_editor = "VS Code with 20+ extensions"
         self.learning_style = "hands-on projects"
@@ -304,15 +246,13 @@ class Gerald:
         
     def when_not_coding(self):
         return [
-            "Reading tech blogs & documentation",
-            "Contributing to open source",
-            "Mentoring aspiring developers", 
+            "Reading tech blogs & documentation",          
             "Exploring new frameworks",
             "Planning the next big project"
         ]
         
     def dream_project(self):
-        return "Building tools that make developers' lives easier"
+        return "Building impactful projects that make lives easier"
 ```
 
 </div>
