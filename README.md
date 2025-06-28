@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gerald%20Riwo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gerald%20Riwo&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Team+Player+%F0%9F%A4%9D;Collaborative+%F0%9F%91%A5;Fast+Paced+%E2%9A%A1;Self+Motivated+%F0%9F%9A%80;Fast+Learner+%F0%9F%93%9A;Problem+Solver+%F0%9F%A7%A9;Versatile+%F0%9F%94%A7;Driven+%F0%9F%8E%AF;Resourceful+%F0%9F%92%A1;Reliable+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Team+Player+%F0%9F%A4%9D;Collaborative+%F0%9F%91%A5;Fast+Paced+%E2%9A%A1;Self+Motivated+%F0%9F%9A%80;Fast+Learner+%F0%9F%93%9A;Problem+Solver+%F0%9F%A7%A9;Versatile+%F0%9F%94%A7;Driven+%F0%9F%8E%AF;Resourceful+%F0%9F%92%A1;Reliable+%E2%9C%85" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,186 +16,318 @@
   <a href="mailto:riwo.gerald@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0078D4" alt="Outlook"/>
   </a>
+  <a href="https://github.com/riwogerald">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
+  </a>
 </div>
 
 <br/>
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<div align="left">
 
 ```yaml
 name: Gerald Riwo
 role: Full Stack Developer
 location: Earth 🌍
-languages: [Python, JavaScript, C++, Java, Ruby, C#]
-frameworks: [Django, Node.js, Rails, Qt]
-databases: [MySQL, SQLite, PostgreSQL]
-current_focus: Building innovative solutions
-fun_fact: I debug with print statements and I'm not ashamed! 😄
+experience: 3+ years
+languages: [Python, JavaScript, TypeScript, C++, Java, Ruby, C#]
+frameworks: [Django, Node.js, Rails, React, Qt]
+databases: [MySQL, PostgreSQL, SQLite, MongoDB]
+cloud: [AWS, Heroku, Netlify]
+current_focus: Building scalable web applications
+philosophy: "Clean code is not written by following a set of rules"
+fun_fact: I debug with print statements and I'm proud of it! 😄
 ```
 
-- 💻 **Passionate Developer** with expertise across multiple programming languages
-- 🌟 **Innovation Enthusiast** who loves building solutions that make a difference
-- 🎯 **Continuous Learner** always eager to explore new technologies and challenges
-- 🤝 **Team Player** who thrives in collaborative environments
-- ⚡ **Fast-Paced** developer who delivers quality code efficiently
+</div>
+
+<div align="left">
+
+- 💻 **Passionate Full Stack Developer** with 3+ years of experience building robust applications
+- 🌟 **Innovation Enthusiast** who transforms ideas into scalable digital solutions
+- 🎯 **Continuous Learner** always exploring cutting-edge technologies and best practices
+- 🤝 **Collaborative Team Player** who thrives in agile development environments
+- ⚡ **Performance-Focused** developer who writes clean, efficient, and maintainable code
+- 🔧 **Problem Solver** who enjoys tackling complex technical challenges
+- 📚 **Knowledge Sharer** passionate about mentoring and contributing to the developer community
+
+</div>
 
 <br clear="right"/>
 
 ## 🛠️ Technical Arsenal
 
-<details>
-<summary><b>🔥 Programming Languages</b></summary>
-<br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,cs,java,ruby,html,css&theme=dark&perline=5" />
+
+### 💻 **Core Technologies**
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,django&theme=dark&perline=6" />
+
+### 🗄️ **Databases & Backend**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,redis,graphql&theme=dark&perline=6" />
+
+### 🔧 **Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&theme=dark&perline=6" />
+
 </div>
 
-| Language | Proficiency | Experience |
-|----------|-------------|------------|
-| Python | ⭐⭐⭐⭐⭐ | 3+ years |
-| JavaScript | ⭐⭐⭐⭐⭐ | 3+ years |
-| C/C++ | ⭐⭐⭐⭐ | 2+ years |
-| Java | ⭐⭐⭐⭐ | 2+ years |
-| Ruby | ⭐⭐⭐ | 1+ years |
-| C# | ⭐⭐⭐ | 1+ years |
+<details>
+<summary><b>🔥 Programming Languages & Proficiency</b></summary>
+<br/>
+
+| Language | Proficiency | Years | Primary Use |
+|----------|-------------|-------|-------------|
+| **Python** | ⭐⭐⭐⭐⭐ | 3+ | Backend Development, Data Analysis, Automation |
+| **JavaScript** | ⭐⭐⭐⭐⭐ | 3+ | Full Stack Development, Frontend Logic |
+| **TypeScript** | ⭐⭐⭐⭐ | 2+ | Type-safe Frontend & Backend Development |
+| **C/C++** | ⭐⭐⭐⭐ | 2+ | System Programming, Performance-critical Apps |
+| **Java** | ⭐⭐⭐⭐ | 2+ | Enterprise Applications, Android Development |
+| **Ruby** | ⭐⭐⭐ | 1+ | Web Development with Rails |
+| **C#** | ⭐⭐⭐ | 1+ | Desktop Applications, .NET Development |
 
 </details>
 
 <details>
-<summary><b>🗄️ Databases & Query Languages</b></summary>
+<summary><b>🚀 Frameworks & Libraries Expertise</b></summary>
 <br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql&theme=dark" />
-  <br/>
-  <img src="https://img.shields.io/badge/SQL-Expert-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/NoSQL-Familiar-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"/>
-</div>
+
+**Backend Frameworks:**
+- 🐍 **Django** - REST APIs, Admin Panels, Full-stack Applications
+- 🟢 **Node.js** - Microservices, Real-time Applications, APIs
+- 💎 **Ruby on Rails** - Rapid Prototyping, MVC Applications
+- ⚡ **Express.js** - Lightweight APIs, Middleware Development
+
+**Frontend Technologies:**
+- ⚛️ **React** - SPAs, Component Libraries, State Management
+- 🎨 **HTML5/CSS3** - Responsive Design, Modern Layouts
+- 📱 **Responsive Design** - Mobile-first Development
+
+**Desktop Development:**
+- 🖥️ **Qt Framework** - Cross-platform Desktop Applications
+
+**Database Technologies:**
+- 🐘 **PostgreSQL** - Complex Queries, Data Modeling
+- 🐬 **MySQL** - Web Applications, Performance Optimization
+- 📊 **SQLite** - Embedded Applications, Prototyping
+- 🍃 **MongoDB** - Document Stores, Flexible Schemas
+
 </details>
 
 <details>
-<summary><b>🚀 Frameworks & Libraries</b></summary>
+<summary><b>☁️ Cloud & DevOps</b></summary>
 <br/>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=django,nodejs,rails,qt,react,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,heroku,netlify,vercel,nginx&theme=dark" />
 </div>
 
-- **Backend**: Django, Node.js, Ruby on Rails, Express.js
-- **Frontend**: React, HTML5, CSS3, JavaScript ES6+
-- **Desktop**: Qt Framework
-- **APIs**: RESTful services, GraphQL
+- **Cloud Platforms**: AWS (EC2, S3, RDS), Heroku, Netlify, Vercel
+- **Containerization**: Docker, Docker Compose
+- **Version Control**: Git, GitHub, GitLab
+- **CI/CD**: GitHub Actions, Automated Testing
+- **Web Servers**: Nginx, Apache
+- **Monitoring**: Basic logging and error tracking
 
 </details>
 
-<details>
-<summary><b>🔧 Tools & Technologies</b></summary>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,powershell,linux,windows&theme=dark" />
-</div>
-
-- **IDEs**: VS Code, PyCharm, IntelliJ IDEA
-- **Version Control**: Git, GitHub
-- **DevOps**: Docker, CI/CD pipelines
-- **OS**: Linux, Windows, macOS
-- **Cloud**: AWS basics, Heroku
-
-</details>
-
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riwogerald&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riwogerald&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=riwogerald&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Gerald's%20GitHub%20Stats" alt="GitHub Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riwogerald&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riwogerald&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riwogerald&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=FF6B6B" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riwogerald&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riwogerald&theme=tokyo-night&hide_border=true&area=true&custom_title=Gerald's%20Contribution%20Timeline" alt="Contribution Graph" />
 </div>
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements & Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riwogerald&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=riwogerald&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  
-| 🎯 **Goals 2024** | ✅ **Completed** | 🚧 **In Progress** |
-|-------------------|------------------|-------------------|
-| Master TypeScript | ✅ | |
-| Learn Cloud Architecture | | 🚧 |
-| Contribute to Open Source | ✅ | 🚧 |
-| Build Full-Stack Projects | ✅ | 🚧 |
+
+### 🎯 **2024 Goals & Progress**
+
+| Goal | Status | Progress | Notes |
+|------|--------|----------|-------|
+| Master TypeScript | ✅ **Completed** | 100% | Building production apps with TS |
+| Learn Cloud Architecture | 🚧 **In Progress** | 75% | AWS Solutions Architect path |
+| Contribute to Open Source | ✅ **Ongoing** | 60% | 15+ contributions this year |
+| Build Full-Stack Projects | ✅ **Ongoing** | 80% | 5 major projects completed |
+| Learn DevOps & CI/CD | 🚧 **In Progress** | 65% | Docker & GitHub Actions |
+| Mobile Development | 📋 **Planned** | 0% | React Native exploration |
 
 </div>
 
-## 🎯 Current Focus & Interests
+## 💼 Featured Projects & Work
+
+<div align="center">
+
+### 🌟 **Project Highlights**
+
+| Project | Tech Stack | Description | Status |
+|---------|------------|-------------|--------|
+| **E-Commerce Platform** | Django, React, PostgreSQL | Full-stack marketplace with payment integration | 🚀 **Live** |
+| **Task Management API** | Node.js, Express, MongoDB | RESTful API with authentication & real-time updates | ✅ **Complete** |
+| **Data Visualization Dashboard** | Python, Django, Chart.js | Interactive analytics dashboard for business metrics | 🚧 **Development** |
+| **Chat Application** | React, Socket.io, Node.js | Real-time messaging with file sharing capabilities | ✅ **Complete** |
+
+</div>
+
+## 🎯 Current Focus & Learning Path
 
 ```javascript
-const gerald = {
-    currentlyLearning: ["Cloud Architecture", "DevOps", "System Design"],
-    workingOn: ["Personal Portfolio", "Open Source Contributions"],
-    lookingFor: ["Collaboration opportunities", "Interesting projects"],
-    askMeAbout: ["Web Development", "Database Design", "Problem Solving"],
+const gerald2024 = {
+    currentlyLearning: [
+        "AWS Solutions Architecture",
+        "Microservices Design Patterns", 
+        "Advanced React Patterns",
+        "System Design & Scalability"
+    ],
+    workingOn: [
+        "Personal Portfolio Website",
+        "Open Source Django Package",
+        "Technical Blog Series",
+        "Mentoring Junior Developers"
+    ],
+    nextGoals: [
+        "AWS Certification",
+        "Contributing to major OSS projects",
+        "Speaking at tech conferences",
+        "Building SaaS products"
+    ],
+    askMeAbout: [
+        "Full Stack Development",
+        "Database Design & Optimization", 
+        "API Architecture",
+        "Code Review & Best Practices",
+        "Career Transition to Tech"
+    ],
     funFact: "I can debug code faster than I can explain why it works! 🐛➡️✨"
 };
 ```
 
-<div align="center">
-
-### 🌱 **Always Growing**
-*"The best way to predict the future is to create it"*
-
-</div>
-
 ## 📈 Weekly Development Breakdown
 
 ```text
-Python       ████████████████████████▓   85.2%
-JavaScript   ██████████████████▓▓▓▓▓▓▓   65.8%
-TypeScript   ████████████▓▓▓▓▓▓▓▓▓▓▓▓▓   45.3%
-C++          ██████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   38.7%
-SQL          ████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   32.1%
+Python       ████████████████████████▓   85.2% ↗️ Web APIs & Data Processing
+JavaScript   ██████████████████▓▓▓▓▓▓▓   65.8% ↗️ Frontend Development  
+TypeScript   ████████████▓▓▓▓▓▓▓▓▓▓▓▓▓   45.3% ↗️ Type-safe Applications
+C++          ██████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   38.7% ↘️ System Programming
+SQL          ████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   32.1% ↗️ Database Optimization
+Ruby         ██████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   25.4% ↘️ Rails Applications
 ```
 
-## 🤝 Let's Collaborate!
+## 🌱 Philosophy & Approach
 
 <div align="center">
-  
-I'm always interested in working on exciting projects and meeting fellow developers!
 
-**Open to:**
-- 🚀 Innovative web applications
-- 🔧 Open source contributions  
-- 💡 Problem-solving challenges
-- 🎯 Learning opportunities
+> *"The best way to predict the future is to create it"* - Peter Drucker
+
+### 🎨 **Development Principles**
 
 </div>
 
-## 📫 Get In Touch
+- **🧹 Clean Code**: Write code that tells a story and is easy to maintain
+- **🔄 Continuous Learning**: Stay updated with industry trends and best practices  
+- **🤝 Collaboration**: Believe in the power of teamwork and knowledge sharing
+- **🎯 User-Centric**: Always prioritize user experience and accessibility
+- **⚡ Performance**: Optimize for speed without sacrificing code quality
+- **🔒 Security**: Implement security best practices from day one
+- **📊 Data-Driven**: Make decisions based on metrics and user feedback
+
+## 🤝 Let's Build Something Amazing Together!
+
+<div align="center">
+
+### 🚀 **Open for Collaboration**
+
+I'm always excited to work on innovative projects and connect with fellow developers!
+
+**Currently Open To:**
+- 💼 **Full-time opportunities** in Full Stack Development
+- 🚀 **Freelance projects** - Web applications & APIs
+- 🔧 **Open source contributions** - Python, JavaScript, React
+- 💡 **Technical consulting** - Architecture & code reviews
+- 🎯 **Mentoring** - Helping junior developers grow
+- 🎤 **Speaking opportunities** - Tech talks & workshops
+
+**What I Bring:**
+- ✅ 3+ years of production experience
+- ✅ Strong problem-solving skills
+- ✅ Excellent communication & teamwork
+- ✅ Passion for clean, maintainable code
+- ✅ Experience with agile methodologies
+- ✅ Commitment to continuous learning
+
+</div>
+
+## 📫 Let's Connect & Collaborate
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerald-riwo-8604192bb/)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Line!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riwo.gerald@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-Say_Hello!-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:riwo.gerald@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerald-riwo-8604192bb/)
+[![Gmail](https://img.shields.io/badge/Gmail-riwo.gerald@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riwo.gerald@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-riwo.gerald@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:riwo.gerald@outlook.com)
+
+### 💬 **Quick Response Times**
+- 📧 Email: Within 24 hours
+- 💼 LinkedIn: Within 12 hours  
+- 🚀 Urgent projects: Same day
+
+</div>
+
+## 🎉 Fun Facts & Personal Touch
+
+<div align="center">
+
+```python
+class Gerald:
+    def __init__(self):
+        self.coffee_cups_per_day = 4
+        self.favorite_debugging_method = "print() statements"
+        self.code_editor = "VS Code with 20+ extensions"
+        self.learning_style = "hands-on projects"
+        self.motto = "Code, Learn, Repeat"
+        
+    def when_not_coding(self):
+        return [
+            "Reading tech blogs & documentation",
+            "Contributing to open source",
+            "Mentoring aspiring developers", 
+            "Exploring new frameworks",
+            "Planning the next big project"
+        ]
+        
+    def dream_project(self):
+        return "Building tools that make developers' lives easier"
+```
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
   
   <img src="https://komarev.com/ghpvc/?username=riwogerald&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
   
   **⭐️ From [Gerald Riwo](https://github.com/riwogerald) with ❤️**
   
-  *"Code is poetry written in logic"*
+  *"Code is poetry written in logic, and every bug is just a plot twist"*
+  
+  <sub>Last updated: December 2024 | Always evolving, always learning 🚀</sub>
 </div>
