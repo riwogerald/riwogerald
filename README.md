@@ -154,18 +154,6 @@ cloud: [AWS, Netlify]
   <img src="https://github-profile-trophy.vercel.app/?username=riwogerald&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies" />
 </div>
 
-```
-
-## 📈 Weekly Development Breakdown
-
-```text
-Python       ████████████████████████▓   85.2% ↗️ Web APIs & Data Processing
-JavaScript   ██████████████████▓▓▓▓▓▓▓   65.8% ↗️ Frontend Development  
-TypeScript   ████████████▓▓▓▓▓▓▓▓▓▓▓▓▓   45.3% ↗️ Type-safe Applications
-C++          ██████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   38.7% ↘️ System Programming
-SQL          ████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   32.1% ↗️ Database Optimization
-Ruby         ██████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   25.4% ↘️ Rails Applications
-```
 
 ## 🌱 Philosophy & Approach
 
