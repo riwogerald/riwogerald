@@ -264,7 +264,11 @@ class Gerald:
   
   **⭐️ From [Gerald Riwo](https://github.com/riwogerald) with ❤️**
   
-  *"Code is poetry written in logic, and every bug is just a plot twist"*
+  *"Complexity doesn’t scare me. Stagnation does."*
+  
+  *"Every vulnerability has a lesson. Every exploit, a story worth understanding."*
+  
+  *"The backend may be hidden, but it’s where I leave my fingerprint.*
   
   <sub>Last updated: December 2024 | Always evolving, always learning 🚀</sub>
 </div>
