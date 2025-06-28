@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Gerald Riwo
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Team+Player;Collaborative;Fast+Paced;Self+Motivated;Fast+Learner;Collaborative;Versatile;Driven;Problem+Solving;Resourceful;Reliable" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
