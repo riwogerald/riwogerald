@@ -44,7 +44,7 @@ cloud: [AWS, Netlify]
 
 <div align="left">
 
-- 💻 **Passionate Full Stack Developer** with 3+ years of experience building robust applications
+- 💻 **Passionate Developer** with 3+ years of experience building robust applications
 - 🌟 **Innovation Enthusiast** who transforms ideas into scalable digital solutions
 - 🎯 **Continuous Learner** always exploring cutting-edge technologies and best practices
 - 🤝 **Collaborative Team Player** who thrives in agile development environments
