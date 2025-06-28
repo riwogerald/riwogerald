@@ -31,16 +31,15 @@
 
 ```yaml
 name: Gerald Riwo
-role: Full Stack Developer
+role: Developer | IT Specialist
 location: Earth 🌍
-experience: 3+ years
+experience: 2+ year(s)
 languages: [Python, JavaScript, TypeScript, C++, Java, Ruby, C#]
 frameworks: [Django, Node.js, Rails, React, Qt]
 databases: [MySQL, PostgreSQL, SQLite, MongoDB]
-cloud: [AWS, Heroku, Netlify]
-current_focus: Building scalable web applications
-philosophy: "Clean code is not written by following a set of rules"
-fun_fact: I debug with print statements and I'm proud of it! 😄
+cloud: [AWS, Netlify]
+
+philosophy: "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present." – Marcus Aurelius
 ```
 
 </div>
