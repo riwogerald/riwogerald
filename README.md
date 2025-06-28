@@ -268,7 +268,7 @@ class Gerald:
   
   *"Every vulnerability has a lesson. Every exploit, a story worth understanding."*
   
-  *"The backend may be hidden, but it’s where I leave my fingerprint.*
+  *"The backend may be hidden, but it’s where I leave my fingerprint."*
   
-  <sub>Last updated: December 2024 | Always evolving, always learning 🚀</sub>
+  <sub>| Always evolving, always learning 🚀 |</sub>
 </div>
