@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gerald%20Riwo&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gerald%20Riwo&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20ICT%20Officer%20%7C%20IT%20Support%20Specialist&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
@@ -31,7 +31,7 @@
 
 ```yaml
 name: Gerald Riwo
-role: Developer | IT Specialist
+role: Developer | ICT Officer | IT Support Specialist
 location: Earth 🌍
 experience: 2+ year(s)
 languages: [Python, JavaScript, TypeScript, C++, Java, Ruby, C#]
