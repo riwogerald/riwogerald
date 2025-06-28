@@ -38,8 +38,6 @@ languages: [Python, JavaScript, TypeScript, C++, Java, Ruby, C#]
 frameworks: [Django, Node.js, Rails, React, Qt]
 databases: [MySQL, PostgreSQL, SQLite, MongoDB]
 cloud: [AWS, Netlify]
-
-philosophy: "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present." – Marcus Aurelius
 ```
 
 </div>
