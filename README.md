@@ -129,6 +129,7 @@ cloud: [AWS, Netlify]
 - **Version Control**: Git, GitHub, GitLab
 - **CI/CD**: GitHub Actions, Automated Testing
 - **Web Servers**: Nginx, Apache
+- **Project Management**: Jira - Agile workflows, Sprint planning, Issue tracking
 - **Monitoring**: Basic logging and error tracking
 
 </details>
@@ -252,11 +253,11 @@ class Gerald:
   
   **⭐️ From [Gerald Riwo](https://github.com/riwogerald) with ❤️**
   
-  *"Complexity doesn’t scare me. Stagnation does."*
+  *"Complexity doesn't scare me. Stagnation does."*
   
   *"Every vulnerability has a lesson. Every exploit, a story worth understanding."*
   
-  *"The backend may be hidden, but it’s where I leave my fingerprint."*
+  *"The backend may be hidden, but it's where I leave my fingerprint."*
   
   <sub>| Always evolving, always learning 🚀 |</sub>
 </div>
