@@ -44,7 +44,7 @@ cloud: [AWS, Netlify]
 
 <div align="left">
 
-- 💻 **Passionate Developer** with 3+ years of experience building robust applications
+- 💻 **Passionate Developer** with 2+ years of experience building robust applications
 - 🌟 **Innovation Enthusiast** who transforms ideas into scalable digital solutions
 - 🎯 **Continuous Learner** always exploring cutting-edge technologies and best practices
 - 🤝 **Collaborative Team Player** who thrives in agile development environments
@@ -80,8 +80,8 @@ cloud: [AWS, Netlify]
 
 | Language | Proficiency | Years | Primary Use |
 |----------|-------------|-------|-------------|
-| **Python** | ⭐⭐⭐⭐⭐ | 3+ | Backend Development, Data Analysis, Automation |
-| **JavaScript** | ⭐⭐⭐⭐⭐ | 3+ | Full Stack Development, Frontend Logic |
+| **Python** | ⭐⭐⭐⭐⭐ | 2+ | Backend Development, Data Analysis, Automation |
+| **JavaScript** | ⭐⭐⭐⭐⭐ | 2+ | Full Stack Development, Frontend Logic |
 | **TypeScript** | ⭐⭐⭐⭐ | 2+ | Type-safe Frontend & Backend Development |
 | **C/C++** | ⭐⭐⭐⭐ | 2+ | System Programming, Performance-critical Apps |
 | **Java** | ⭐⭐⭐⭐ | 2+ | Enterprise Applications, Android Development |
