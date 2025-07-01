@@ -212,8 +212,8 @@ cloud: [AWS, Netlify]
 [![Outlook](https://img.shields.io/badge/Outlook-riwo.gerald@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:riwo.gerald@outlook.com)
 
 ### 💬 **Quick Response Times**
-- 📧 Email: Within 24 hours
-- 💼 LinkedIn: Within 24 hours  
+📧 Email: Within 24 hours 📧
+💼 LinkedIn: Within 24 hours 📧  
 
 </div>
 
