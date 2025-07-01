@@ -213,7 +213,7 @@ cloud: [AWS, Netlify]
 
 ### 💬 **Quick Response Times**
 📧 Email: Within 24 hours 📧
-💼 LinkedIn: Within 24 hours 📧  
+💼 LinkedIn: Within 24 hours 💼  
 
 </div>
 
