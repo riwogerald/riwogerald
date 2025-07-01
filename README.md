@@ -187,12 +187,12 @@ cloud: [AWS, Netlify]
 I'm always excited to work on innovative projects and connect with fellow developers!
 
 **Currently Open To:**
-- 💼 **Full-time opportunities** in Full Stack Development
-- 🚀 **Freelance projects** - Web applications & APIs
-- 🔧 **Open source contributions** - Python, JavaScript, React
-- 💡 **Technical consulting** - Architecture & code reviews
-- 🎯 **Mentoring** - Helping junior developers grow
-- 🎤 **Speaking opportunities** - Tech talks & workshops
+💼 **Full-time opportunities** in Full Stack Development 💼
+🚀 **Freelance projects** - Web applications & APIs 🚀
+🔧 **Open source contributions** - Python, JavaScript, React🔧
+💡 **Technical consulting** - Architecture & code reviews 💡
+🎯 **Mentoring** - Helping junior developers grow 🎯
+🎤 **Speaking opportunities** - Tech talks & workshops 🎤
 
 **What I Bring:**
 - ✅ Production experience
