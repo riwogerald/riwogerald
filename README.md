@@ -184,7 +184,6 @@ cloud: [AWS, Netlify]
 
 ### 🚀 **Open for Collaboration**
 
-I'm always excited to work on innovative projects and connect with fellow developers!
 
 **Currently Open To:**
 💼 **Full-time opportunities** in Full Stack Development 💼
@@ -195,12 +194,12 @@ I'm always excited to work on innovative projects and connect with fellow develo
 🎤 **Speaking opportunities** - Tech talks & workshops 🎤
 
 **What I Bring:**
-- ✅ Production experience
-- ✅ Strong problem-solving skills
-- ✅ Excellent communication & teamwork
-- ✅ Passion for clean, maintainable code
-- ✅ Experience with agile methodologies
-- ✅ Commitment to continuous learning
+✅ Production experience
+✅ Strong problem-solving skills
+✅ Excellent communication & teamwork
+✅ Passion for clean, maintainable code
+✅ Experience with agile methodologies
+✅ Commitment to continuous learning
 
 </div>
 
