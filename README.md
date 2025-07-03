@@ -32,7 +32,7 @@
 ```yaml
 name: Gerald Riwo
 role: Developer | ICT Officer | IT Support Specialist
-location: Earth 🌍
+location: Kenya 🌍
 experience: 2+ year(s)
 languages: [Python, JavaScript, TypeScript, C++, Java, Ruby, C#]
 frameworks: [Django, Node.js, Rails, React, Qt]
