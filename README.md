@@ -56,26 +56,26 @@ cloud: [AWS, Netlify]
 
 <br clear="right"/>
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Arsenal 🛠️
 
 <div align="center">
 
-### 💻 **Core Technologies**
+### 💻 **Core Technologies** 💻
 
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,django&theme=dark&perline=6" />
 
-### 🗄️ **Databases & Backend**
+### 🗄️ **Databases & Backend** 🗄️
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,redis,graphql&theme=dark&perline=6" />
 
-### 🔧 **Tools & DevOps**
+### 🔧 **Tools & DevOps** 🔧
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&theme=dark&perline=6" />
 
 </div>
 
 <details>
-<summary><b>🔥 Programming Languages & Proficiency</b></summary>
+<summary><b>🔥 Programming Languages & Proficiency 🔥</b></summary>
 <br/>
 
 | Language | Proficiency | Years | Primary Use |
