@@ -138,7 +138,7 @@ cloud: [AWS, Netlify]
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=riwogerald&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Gerald's%20GitHub%20Stats" alt="GitHub Stats" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riwogerald&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riwogerald&layout=compact&theme=tokyonight&hide_border=true&langs_count=11&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </div>
 
 <div align="center">
