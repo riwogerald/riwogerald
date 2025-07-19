@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <div align="left">
 
@@ -165,6 +165,7 @@ cloud: [AWS, Netlify]
 > *"It takes considerable knowledge just to realize the extent of your own ignorance."* - Thomas Sowell
 
 > *"What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose."* - Margaret Thatcher
+
 
 ### 🎨 **Development Principles**
 
