@@ -187,22 +187,22 @@ cloud: [AWS, Netlify]
 
 **Currently Open To:**
 
-    💼 **Full-time opportunities** in Full Stack Development 💼
+  💼 **Full-time opportunities** in Full Stack Development 💼
     
-    🚀 **Freelance projects** - Web applications & APIs 🚀
+  🚀 **Freelance projects** - Web applications & APIs 🚀
     
-    🔧 **Open source contributions** - Python, JavaScript, React🔧
+  🔧 **Open source contributions** - Python, JavaScript, React🔧
     
-    💡 **Technical consulting** - Architecture & code reviews 💡
+  💡 **Technical consulting** - Architecture & code reviews 💡
 
 **What I Bring:**
 
-    ✅ Production experience
-    ✅ Strong problem-solving skills
-    ✅ Excellent communication & teamwork
-    ✅ Passion for clean, maintainable code
-    ✅ Experience with agile methodologies
-    ✅ Commitment to continuous learning
+  ✅ Production experience
+  ✅ Strong problem-solving skills
+  ✅ Excellent communication & teamwork
+  ✅ Passion for clean, maintainable code
+  ✅ Experience with agile methodologies
+  ✅ Commitment to continuous learning
 </div>
 
 ## 📫 Let's Connect & Collaborate
