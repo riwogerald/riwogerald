@@ -204,12 +204,19 @@ cloud: [AWS, Netlify]
 
 
 </div>
+
+<div align="center">
+
 ## 🤝 Let's Build Something Amazing Together!
+
+</div>
+
 
 <div align="center">
 
 ### 🚀 **Open for Collaboration**
 
+</div>
 
 **Currently Open To:**
 
