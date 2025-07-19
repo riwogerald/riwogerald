@@ -167,9 +167,11 @@ cloud: [AWS, Netlify]
 > *"What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, that you have got to have hard work and a certain sense of purpose."* - Margaret Thatcher
 
 
+</div>
+
 ### 🎨 **Development Principles**
 
-</div>
+<div align="center">
 
 - **🧹 Clean Code**: Write code that tells a story and is easy to maintain
 - **🔄 Continuous Learning**: Stay updated with industry trends and best practices  
