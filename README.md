@@ -104,25 +104,39 @@ cloud: [AWS, Netlify]
 <summary><b>🚀 Frameworks & Libraries Expertise</b></summary>
 <br/>
 
+
 **Backend Frameworks:**
-- 🐍 **Django** - REST APIs, Admin Panels, Full-stack Applications
-- 🟢 **Node.js** - Microservices, Real-time Applications, APIs
-- 💎 **Ruby on Rails** - Rapid Prototyping, MVC Applications
-- ⚡ **Express.js** - Lightweight APIs, Middleware Development
+
+🐍 **Django** - REST APIs, Admin Panels, Full-stack Applications 🐍
+
+🟢 **Node.js** - Microservices, Real-time Applications, APIs 🟢
+
+💎 **Ruby on Rails** - Rapid Prototyping, MVC Applications 💎
+
+⚡ **Express.js** - Lightweight APIs, Middleware Development ⚡
 
 **Frontend Technologies:**
-- ⚛️ **React** - SPAs, Component Libraries, State Management
-- 🎨 **HTML5/CSS3** - Responsive Design, Modern Layouts
-- 📱 **Responsive Design** - Mobile-first Development
+⚛️ **React** - SPAs, Component Libraries, State Management ⚛️
+
+🎨 **HTML5/CSS3** - Responsive Design, Modern Layouts 🎨
+
+📱 **Responsive Design** - Mobile-first Development 📱
 
 **Desktop Development:**
-- 🖥️ **Qt Framework** - Cross-platform Desktop Applications
+
+🖥️ **Qt Framework** - Cross-platform Desktop Applications 🖥️
+
 
 **Database Technologies:**
-- 🐘 **PostgreSQL** - Complex Queries, Data Modeling
-- 🐬 **MySQL** - Web Applications, Performance Optimization
-- 📊 **SQLite** - Embedded Applications, Prototyping
-- 🍃 **MongoDB** - Document Stores, Flexible Schemas
+
+🐘 **PostgreSQL** - Complex Queries, Data Modeling 🐘
+
+🐬 **MySQL** - Web Applications, Performance Optimization 🐬
+
+📊 **SQLite** - Embedded Applications, Prototyping 📊
+
+🍃 **MongoDB** - Document Stores, Flexible Schemas 🍃
+
 
 </details>
 
@@ -146,7 +160,11 @@ cloud: [AWS, Netlify]
 
 </div>
 
+<div align="center">
+
 ## 📊 GitHub Analytics & Performance
+
+</div>
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=riwogerald&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Gerald's%20GitHub%20Stats" alt="GitHub Stats" />
