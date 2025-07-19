@@ -82,6 +82,8 @@ cloud: [AWS, Netlify]
 
 </div>
 
+<div align="center">
+
 <details>
 <summary><b>🔥 Programming Languages & Proficiency 🔥</b></summary>
 <br/>
@@ -141,6 +143,8 @@ cloud: [AWS, Netlify]
 - **Monitoring**: Basic logging and error tracking
 
 </details>
+
+</div>
 
 ## 📊 GitHub Analytics & Performance
 
