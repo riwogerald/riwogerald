@@ -189,12 +189,19 @@ cloud: [AWS, Netlify]
 ### 🎨 **Development Principles**
 
 **🧹 Clean Code**: Write code that tells a story and is easy to maintain
-**🔄 Continuous Learning**: Stay updated with industry trends and best practices  
+
+**🔄 Continuous Learning**: Stay updated with industry trends and best practices 
+
 **🤝 Collaboration**: Believe in the power of teamwork and knowledge sharing
+
 **🎯 User-Centric**: Always prioritize user experience and accessibility
+
 **⚡ Performance**: Optimize for speed without sacrificing code quality
+
 **🔒 Security**: Implement security best practices from day one
+
 **📊 Data-Driven**: Make decisions based on metrics and user feedback
+
 
 </div>
 ## 🤝 Let's Build Something Amazing Together!
