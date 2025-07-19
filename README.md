@@ -208,7 +208,7 @@ cloud: [AWS, Netlify]
 
 <div align="center">
 
-### 🎨 **Development Principles**
+## 🎨 **Development Principles**
 
 **🧹 Clean Code**: Write code that tells a story and is easy to maintain
 
@@ -224,8 +224,8 @@ cloud: [AWS, Netlify]
 
 **📊 Data-Driven**: Make decisions based on metrics and user feedback
 
-
 </div>
+
 
 <div align="center">
 
@@ -280,7 +280,7 @@ cloud: [AWS, Netlify]
 [![Gmail](https://img.shields.io/badge/Gmail-riwo.gerald@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riwo.gerald@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-riwo.gerald@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:riwo.gerald@outlook.com)
 
-### 💬 **Quick Response Times**
+## 💬 **Quick Response Times**
 📧 Email: Within 24 hours 📧
 💼 LinkedIn: Within 24 hours 💼  
 
