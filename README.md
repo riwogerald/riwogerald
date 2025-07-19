@@ -23,7 +23,9 @@
 
 <br/>
 
+<div align="center">
 ## 🚀 About Me
+</div>
 
 <img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -169,9 +171,11 @@ cloud: [AWS, Netlify]
 
 </div>
 
+<div align="center">
+
 ### 🎨 **Development Principles**
 
-<div align="center">
+
 
 - **🧹 Clean Code**: Write code that tells a story and is easy to maintain
 - **🔄 Continuous Learning**: Stay updated with industry trends and best practices  
@@ -181,6 +185,7 @@ cloud: [AWS, Netlify]
 - **🔒 Security**: Implement security best practices from day one
 - **📊 Data-Driven**: Make decisions based on metrics and user feedback
 
+</div>
 ## 🤝 Let's Build Something Amazing Together!
 
 <div align="center">
