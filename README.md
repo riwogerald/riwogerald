@@ -264,7 +264,11 @@ cloud: [AWS, Netlify]
 
 </div>
 
+<div align="center">
+
 ## 🎉 Fun Facts & Personal Touch
+
+</div>
 
 <div align="center">
 
@@ -281,7 +285,7 @@ class Gerald:
         return [
             "Reading tech blogs & documentation",          
             "Exploring new frameworks",
-            "Planning the next big project"
+            "Planning the next project"
         ]
         
     def dream_project(self):
