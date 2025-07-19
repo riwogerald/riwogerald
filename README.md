@@ -119,6 +119,7 @@ cloud: [AWS, Netlify]
 
 
 **Frontend Technologies:**
+
 ⚛️ **React** - SPAs, Component Libraries, State Management ⚛️
 
 🎨 **HTML5/CSS3** - Responsive Design, Modern Layouts 🎨
@@ -154,13 +155,23 @@ cloud: [AWS, Netlify]
   <img src="https://skillicons.dev/icons?i=aws,docker,heroku,netlify,vercel,nginx&theme=dark" />
 </div>
 
-- **Cloud Platforms**: AWS (EC2, S3, RDS), Heroku, Netlify, Vercel
-- **Containerization**: Docker, Docker Compose
-- **Version Control**: Git, GitHub, GitLab
-- **CI/CD**: GitHub Actions, Automated Testing
-- **Web Servers**: Nginx, Apache
-- **Project Management**: Jira - Agile workflows, Sprint planning, Issue tracking
-- **Monitoring**: Basic logging and error tracking
+<div align="center">
+
+**Cloud Platforms**: AWS (EC2, S3, RDS), Heroku, Netlify, Vercel
+
+**Containerization**: Docker, Docker Compose
+
+**Version Control**: Git, GitHub, GitLab
+
+**CI/CD**: GitHub Actions, Automated Testing
+
+**Web Servers**: Nginx, Apache
+
+**Project Management**: Jira - Agile workflows, Sprint planning, Issue tracking
+
+**Monitoring**: Basic logging and error tracking
+
+</div>
 
 </details>
 
