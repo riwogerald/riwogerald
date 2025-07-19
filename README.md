@@ -105,6 +105,7 @@ cloud: [AWS, Netlify]
 <br/>
 
 
+
 **Backend Frameworks:**
 
 🐍 **Django** - REST APIs, Admin Panels, Full-stack Applications 🐍
@@ -115,6 +116,8 @@ cloud: [AWS, Netlify]
 
 ⚡ **Express.js** - Lightweight APIs, Middleware Development ⚡
 
+
+
 **Frontend Technologies:**
 ⚛️ **React** - SPAs, Component Libraries, State Management ⚛️
 
@@ -122,9 +125,12 @@ cloud: [AWS, Netlify]
 
 📱 **Responsive Design** - Mobile-first Development 📱
 
+
+
 **Desktop Development:**
 
 🖥️ **Qt Framework** - Cross-platform Desktop Applications 🖥️
+
 
 
 **Database Technologies:**
