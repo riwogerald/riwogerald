@@ -218,6 +218,8 @@ cloud: [AWS, Netlify]
 
 </div>
 
+<div align="center">
+
 **Currently Open To:**
 
   💼 **Full-time opportunities** in Full Stack Development 💼
@@ -244,7 +246,11 @@ cloud: [AWS, Netlify]
   
 </div>
 
+<div align="center">
+
 ## 📫 Let's Connect & Collaborate
+
+</div>
 
 <div align="center">
   
