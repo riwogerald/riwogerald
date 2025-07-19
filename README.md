@@ -60,7 +60,11 @@ cloud: [AWS, Netlify]
 
 <br clear="right"/>
 
+<div align="center">
+
 ## 🛠️ Technical Arsenal 🛠️
+
+</div>
 
 <div align="center">
 
@@ -153,14 +157,21 @@ cloud: [AWS, Netlify]
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=riwogerald&theme=tokyo-night&hide_border=true&area=true&custom_title=Gerald's%20Contribution%20Timeline" alt="Contribution Graph" />
 </div>
 
+<div align="center">
+
 ## 🏆 Achievements & Milestones
+
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=riwogerald&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="GitHub Trophies" />
 </div>
 
+<div align="center">
 
 ## 🌱 Philosophy & Approach
+
+</div>
 
 <div align="center">
 
@@ -177,15 +188,13 @@ cloud: [AWS, Netlify]
 
 ### 🎨 **Development Principles**
 
-
-
-- **🧹 Clean Code**: Write code that tells a story and is easy to maintain
-- **🔄 Continuous Learning**: Stay updated with industry trends and best practices  
-- **🤝 Collaboration**: Believe in the power of teamwork and knowledge sharing
-- **🎯 User-Centric**: Always prioritize user experience and accessibility
-- **⚡ Performance**: Optimize for speed without sacrificing code quality
-- **🔒 Security**: Implement security best practices from day one
-- **📊 Data-Driven**: Make decisions based on metrics and user feedback
+**🧹 Clean Code**: Write code that tells a story and is easy to maintain
+**🔄 Continuous Learning**: Stay updated with industry trends and best practices  
+**🤝 Collaboration**: Believe in the power of teamwork and knowledge sharing
+**🎯 User-Centric**: Always prioritize user experience and accessibility
+**⚡ Performance**: Optimize for speed without sacrificing code quality
+**🔒 Security**: Implement security best practices from day one
+**📊 Data-Driven**: Make decisions based on metrics and user feedback
 
 </div>
 ## 🤝 Let's Build Something Amazing Together!
