@@ -38,7 +38,7 @@ name: Gerald Riwo
 role: Developer | ICT Officer | IT Support Specialist | 
 location: Kenya 🌍
 experience: 2+ year(s)
-languages: [Python, JavaScript, TypeScript, C++, Java, Ruby, C#]
+languages: [C, Python, JavaScript, TypeScript, C++, Java, Ruby, C#]
 frameworks: [Django, Node.js, Rails, React, Qt]
 databases: [MySQL, PostgreSQL, SQLite, MongoDB]
 cloud: [AWS, Netlify]
@@ -70,7 +70,7 @@ cloud: [AWS, Netlify]
 
 ### 💻 **Core Technologies** 💻
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,visualbasic6,html,css,javascript,typescript,react,nodejs,django,ruby&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,c#,html,css,javascript,typescript,react,nodejs,django,ruby&theme=dark&perline=6" />
 
 ### 🗄️ **Databases & Backend** 🗄️
 
