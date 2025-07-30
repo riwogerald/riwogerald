@@ -177,6 +177,7 @@ cloud: [AWS, Netlify]
 
 </div>
 
+
 <div align="center">
 
 ## 📊 GitHub Analytics & Performance
@@ -223,6 +224,7 @@ cloud: [AWS, Netlify]
 
 </div>
 
+
 <div align="center">
 
 ## 🎨 **Development Principles**
@@ -259,6 +261,7 @@ cloud: [AWS, Netlify]
 
 <div align="center">
 
+
 **Currently Open To:**
 
   💼 **Full-time opportunities** in Full Stack Development 💼
@@ -268,6 +271,8 @@ cloud: [AWS, Netlify]
   🔧 **Open source contributions** - Python, JavaScript, React🔧
     
   💡 **Technical consulting** - Architecture & code reviews 💡
+
+
 
 **What I Bring:**
 
@@ -297,6 +302,8 @@ cloud: [AWS, Netlify]
 [![Gmail](https://img.shields.io/badge/Gmail-riwo.gerald@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riwo.gerald@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-riwo.gerald@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:riwo.gerald@outlook.com)
 
+
+
 ## 💬 **Quick Response Times**
 📧 Email: Within 24 hours 📧
 💼 LinkedIn: Within 24 hours 💼  
@@ -308,6 +315,8 @@ cloud: [AWS, Netlify]
 ## 🎉 Fun Facts & Personal Touch
 
 </div>
+
+
 
 <div align="center">
 
