@@ -78,7 +78,7 @@ cloud: [AWS, Netlify]
 
 ### 🔧 **Tools & DevOps** 🔧
 
-<img src="https://skillicons.dev/icons?i=git,github,rails,docker,aws,linux,vscode&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,rails,docker,aws,netlify,linux,vscode&theme=dark&perline=6" />
 
 </div>
 
