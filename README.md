@@ -68,13 +68,16 @@ cloud: [AWS, Netlify]
 
 <div align="center">
 
+
 ### 💻 **Core Technologies** 💻
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,html,java,css,javascript,typescript,react,nodejs,django,ruby&theme=dark&perline=6" />
 
+
 ### 🗄️ **Databases & Backend** 🗄️
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,redis,graphql&theme=dark&perline=6" />
+
 
 ### 🔧 **Tools & DevOps** 🔧
 
