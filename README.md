@@ -284,7 +284,7 @@ Passionate about writing clean, maintainable code and solving complex technical 
 
 <div align="left">
 
-![Main dashboard for the Mini Reconciliation Tool.](screenshots/minirecon/dashboard.png)
+![Main dashboard for the Mini Reconciliation Tool.](Screenshots/minirecon/dashboard.png)
 **🔧 Tech Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `Papa Parse` `Lucide React` `CSV Processing`
 
 **📝 Description:** Enterprise-grade financial reconciliation tool that compares transaction data between internal systems and payment processors. Automatically identifies discrepancies, matches transactions, and generates comprehensive reports for financial compliance.
@@ -323,7 +323,7 @@ Passionate about writing clean, maintainable code and solving complex technical 
 
 <div align="left">
 
-![Main dashboard for the Image Hash Spoofer.](screenshots/imghash/dashboard.png)
+![Main dashboard for the Image Hash Spoofer.](Screenshots/imghash/dashboard.png)
 **🔧 Tech Stack:** `Node.js` `Vanilla JavaScript` `Web Workers` `HTML5 Canvas` `Cryptography APIs` `Binary File Manipulation`
 
 **📝 Description:** Advanced cryptographic tool that modifies image file hashes to start with specific prefixes while preserving visual appearance. Demonstrates deep understanding of file formats, hash algorithms, and binary manipulation techniques.
