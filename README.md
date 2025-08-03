@@ -244,6 +244,7 @@ Passionate about writing clean, maintainable code and solving complex technical 
 </div>
 
 <div align="left">
+
 ![Main dashboard for the API Calculator.](screenshots/apicalc/dashboard.png)
 **🔧 Tech Stack:** `Python` `React` `TypeScript` `Flask` `Tailwind CSS` `Netlify` `Arbitrary Precision Math`
 
@@ -282,6 +283,7 @@ Passionate about writing clean, maintainable code and solving complex technical 
 </div>
 
 <div align="left">
+
 ![Main dashboard for the Mini Reconciliation Tool.](screenshots/minirecon/dashboard.png)
 **🔧 Tech Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `Papa Parse` `Lucide React` `CSV Processing`
 
@@ -320,6 +322,7 @@ Passionate about writing clean, maintainable code and solving complex technical 
 </div>
 
 <div align="left">
+
 ![Main dashboard for the Image Hash Spoofer.](screenshots/imghash/dashboard.png)
 **🔧 Tech Stack:** `Node.js` `Vanilla JavaScript` `Web Workers` `HTML5 Canvas` `Cryptography APIs` `Binary File Manipulation`
 
