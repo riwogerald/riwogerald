@@ -245,7 +245,7 @@ Passionate about writing clean, maintainable code and solving complex technical 
 
 <div align="left">
 
-![Main dashboard for the API Calculator.](screenshots/apicalc/dashboard.png)
+![Main dashboard for the API Calculator.](Screenshots/apicalc/dashboard.png)
 **🔧 Tech Stack:** `Python` `React` `TypeScript` `Flask` `Tailwind CSS` `Netlify` `Arbitrary Precision Math`
 
 **📝 Description:** A sophisticated arbitrary-precision calculator implemented without external math libraries. Features both a Python CLI with pure mathematical implementations and a modern React web interface. Supports advanced functions like trigonometry, logarithms, and multiple number bases.
