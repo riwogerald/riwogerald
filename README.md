@@ -244,7 +244,7 @@ Passionate about writing clean, maintainable code and solving complex technical 
 </div>
 
 <div align="left">
-
+![Main dashboard for the API Calculator.](screenshots/apicalc/dashboard.png)
 **🔧 Tech Stack:** `Python` `React` `TypeScript` `Flask` `Tailwind CSS` `Netlify` `Arbitrary Precision Math`
 
 **📝 Description:** A sophisticated arbitrary-precision calculator implemented without external math libraries. Features both a Python CLI with pure mathematical implementations and a modern React web interface. Supports advanced functions like trigonometry, logarithms, and multiple number bases.
@@ -282,7 +282,7 @@ Passionate about writing clean, maintainable code and solving complex technical 
 </div>
 
 <div align="left">
-
+![Main dashboard for the Mini Reconciliation Tool.](screenshots/minirecon/dashboard.png)
 **🔧 Tech Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `Papa Parse` `Lucide React` `CSV Processing`
 
 **📝 Description:** Enterprise-grade financial reconciliation tool that compares transaction data between internal systems and payment processors. Automatically identifies discrepancies, matches transactions, and generates comprehensive reports for financial compliance.
@@ -320,7 +320,7 @@ Passionate about writing clean, maintainable code and solving complex technical 
 </div>
 
 <div align="left">
-
+![Main dashboard for the Image Hash Spoofer.](screenshots/imghash/dashboard.png)
 **🔧 Tech Stack:** `Node.js` `Vanilla JavaScript` `Web Workers` `HTML5 Canvas` `Cryptography APIs` `Binary File Manipulation`
 
 **📝 Description:** Advanced cryptographic tool that modifies image file hashes to start with specific prefixes while preserving visual appearance. Demonstrates deep understanding of file formats, hash algorithms, and binary manipulation techniques.
