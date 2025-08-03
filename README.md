@@ -61,6 +61,15 @@ cloud: [AWS, Netlify]
 <br clear="right"/>
 
 <div align="center">
+  
+## 👨‍💻 Professional Summary
+Versatile Full-Stack Developer with 2+ years of experience building scalable web applications. 
+Proven track record in Python/Django, JavaScript/React, and cloud deployments. 
+Passionate about writing clean, maintainable code and solving complex technical challenges.
+
+</div>
+
+<div align="center">
 
 ## 🛠️ Technical Arsenal 🛠️
 
