@@ -116,7 +116,7 @@ Passionate about writing clean, maintainable code and solving complex technical 
 <summary><b>🚀 Frameworks & Libraries Expertise</b></summary>
 <br/>
 
-
+---
 
 **Backend Frameworks:**
 
@@ -128,7 +128,7 @@ Passionate about writing clean, maintainable code and solving complex technical 
 
 ⚡ **Express.js** - Lightweight APIs, Middleware Development ⚡
 
-
+---
 
 **Frontend Technologies:**
 
@@ -138,13 +138,13 @@ Passionate about writing clean, maintainable code and solving complex technical 
 
 📱 **Responsive Design** - Mobile-first Development 📱
 
-
+---
 
 **Desktop Development:**
 
 🖥️ **Qt Framework** - Cross-platform Desktop Applications 🖥️
 
-
+---
 
 **Database Technologies:**
 
@@ -346,26 +346,6 @@ Passionate about writing clean, maintainable code and solving complex technical 
 [![GitHub](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riwogerald/image-hash-spoofer)
 [![CLI Tool](https://img.shields.io/badge/⚡_Node.js_CLI-Command_Line-green?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/riwogerald/image-hash-spoofer#command-line)
 [![Security Docs](https://img.shields.io/badge/🔒_Security_Info-Read_More-red?style=for-the-badge&logo=security&logoColor=white)](https://github.com/riwogerald/image-hash-spoofer#security-considerations)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎮 **More Projects Coming Soon!**
-
-</div>
-
-<div align="center">
-
-[![All Repositories](https://img.shields.io/badge/🔍_Explore_All-My_Repositories-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riwogerald?tab=repositories)
-
-**Currently in Development:**
-🔥 **Real-time Chat Application** - WebSocket-based messaging with React + Node.js  
-🚀 **Task Management System** - Full-stack productivity app with team collaboration  
-⚡ **API Gateway Service** - Microservices architecture with Docker deployment  
-🛡️ **Security Audit Tool** - Network vulnerability scanner with reporting dashboard
 
 </div>
 
