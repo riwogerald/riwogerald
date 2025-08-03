@@ -211,6 +211,11 @@ Passionate about writing clean, maintainable code and solving complex technical 
 
 <div align="center">
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riwogerald&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=riwogerald&theme=tokyonight&hide_border=true" />
+</div>
+
 ## 🏆 Achievements & Milestones
 
 </div>
