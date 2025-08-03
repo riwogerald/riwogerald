@@ -356,6 +356,45 @@ Passionate about writing clean, maintainable code and solving complex technical 
 
 <div align="center">
 
+### 💰 **Treasury Movement Simulator** - Advanced Financial Management System
+
+</div>
+
+<div align="left">
+
+![Main dashboard for the Treasury Movement Simulator.](Screenshots/tmsim/dashboard.png)
+**🔧 Tech Stack:** `React 18` `TypeScript` `Tailwind CSS` `Vite` `Vitest` `Lucide React` `Financial APIs`
+
+**📝 Description:** Sophisticated financial management application for simulating treasury operations across multiple currencies and account types. Features real-time currency conversion, comprehensive transaction processing, and advanced analytics for financial institutions and businesses.
+
+**✨ Key Features:**
+- 💱 **Multi-Currency Engine** - Real-time conversion between KES, USD, and NGN with live exchange rates
+- 🏦 **Account Management** - Support for Mpesa, Bank, Wallet, and Corporate account types
+- 📊 **Advanced Analytics** - Dashboard with transaction insights, balance summaries, and performance metrics
+- ⚡ **Test Scenarios** - Built-in business scenario runner for system validation and stress testing
+- 🔐 **Financial Validation** - Comprehensive checks for insufficient funds, account status, and compliance
+
+**🎯 Financial Innovation:**
+- Processes high-volume transactions with real-time balance updates
+- Implements sophisticated currency arbitrage and conversion algorithms  
+- Provides audit-ready transaction history with advanced filtering capabilities
+- Supports scheduled transfers and automated payment processing
+
+</div>
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Treasury_Dashboard-Live_System-success?style=for-the-badge&logo=netlify&logoColor=white)](https://treasury-move-sim.netlify.app/)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riwogerald/treasury-movement-simulator)
+[![Test Runner](https://img.shields.io/badge/🧪_Business_Tests-Scenarios-orange?style=for-the-badge&logo=testing-library&logoColor=white)](https://treasury-move-sim.netlify.app/#test-scenarios)
+[![Financial Docs](https://img.shields.io/badge/💼_User_Guide-Documentation-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/riwogerald/treasury-movement-simulator#-usage-guide)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 📊 **Project Impact & Statistics**
 
 </div>
@@ -367,6 +406,7 @@ Passionate about writing clean, maintainable code and solving complex technical 
 | **🧮 Calculator** | 7 Languages/Frameworks | ✅ **Live** | **Advanced** | Mathematical Computing |
 | **💰 Reconciliation** | 6 Technologies | ✅ **Live** | **Enterprise** | Financial Compliance |
 | **🛡️ Hash Spoofer** | 5 Core Technologies | ✅ **Live** | **Expert** | Security Research |
+| **💰 Treasury Simulator** | 6 Technologies | ✅ **Live** | **Enterprise** | Financial Systems |
 
 
 ## 🌱 Philosophy & Approach
