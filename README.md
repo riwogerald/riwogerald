@@ -346,9 +346,9 @@ Passionate about writing clean, maintainable code and solving complex technical 
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🌐_Try_Hash_Spoofing-Live_Tool-success?style=for-the-badge&logo=netlify&logoColor=white)](https://image-hash-spoofer.netlify.app/)
-[![GitHub](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riwogerald/image-hash-spoofer)
-[![CLI Tool](https://img.shields.io/badge/⚡_Node.js_CLI-Command_Line-green?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/riwogerald/image-hash-spoofer#command-line)
-[![Security Docs](https://img.shields.io/badge/🔒_Security_Info-Read_More-red?style=for-the-badge&logo=security&logoColor=white)](https://github.com/riwogerald/image-hash-spoofer#security-considerations)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riwogerald/imghash)
+[![CLI Tool](https://img.shields.io/badge/⚡_Node.js_CLI-Command_Line-green?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/riwogerald/imghash#command-line)
+[![Security Docs](https://img.shields.io/badge/🔒_Security_Info-Read_More-red?style=for-the-badge&logo=security&logoColor=white)](https://github.com/riwogerald/imghash#security-considerations)
 
 </div>
 
