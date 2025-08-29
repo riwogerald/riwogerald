@@ -1,5 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there%20🤝%20I'm%20Gerald&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20%7C%20Software%20Developer%20%7C%20ICT%20Officer%20%7C%20IT%20Support%20Specialist%20%7C%20Cyber-Security%20Enthusiast%20%&descAlignY=55&descAlign=50" />
+  
+  <!-- Dynamic Status Badges -->
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available for Hire"/>
+  <img src="https://img.shields.io/badge/Response%20Time-Within%2024hrs-blue?style=for-the-badge&logo=clock&logoColor=white" alt="Response Time"/>
+  <img src="https://img.shields.io/badge/Location-Kenya%20🇰🇪-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  
+  <!-- Real-time Activity -->
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=riwogerald&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/riwogerald?label=Followers&style=for-the-badge&color=36BCF7&logoColor=white" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/riwogerald?label=Total%20Stars&style=for-the-badge&color=36BCF7&logoColor=white" alt="GitHub Stars" />
 </div>
 
 <div align="center">
@@ -22,6 +33,9 @@
 </div>
 
 <br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
@@ -69,9 +83,22 @@ Passionate about writing clean, maintainable code and solving complex technical 
 
 </div>
 
+<!-- Animated Snake -->
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+
 <div align="center">
 
 ## 🛠️ Technical Arsenal 🛠️
+
+<!-- Trending Tech Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/2024-Trending%20Tech-FF6B6B?style=for-the-badge&logo=trendmicro&logoColor=white" alt="2024 Trending"/>
+  <img src="https://img.shields.io/badge/AI%2FML-Ready-00D4AA?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML Ready"/>
+  <img src="https://img.shields.io/badge/WebAssembly-Learning-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
+  <img src="https://img.shields.io/badge/Blockchain-Exploring-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain"/>
+</div>
+
+<br/>
 
 </div>
 
@@ -190,9 +217,15 @@ Passionate about writing clean, maintainable code and solving complex technical 
 </div>
 
 
+<!-- Performance Metrics Section -->
 <div align="center">
 
-## 📊 GitHub Analytics & Performance
+## 📋 GitHub Analytics & Performance
+
+<!-- Real-time Activity Indicators -->
+<img src="https://img.shields.io/badge/🚀%20Coding%20Activity-Active-brightgreen?style=for-the-badge" alt="Active Coder"/>
+<img src="https://img.shields.io/badge/📅%20Last%20Commit-Recent-blue?style=for-the-badge" alt="Recent Commit"/>
+<img src="https://img.shields.io/badge/🔥%20Streak-Consistent-orange?style=for-the-badge" alt="Consistent Streak"/>
 
 </div>
 
@@ -205,8 +238,25 @@ Passionate about writing clean, maintainable code and solving complex technical 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riwogerald&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=FF6B6B" alt="GitHub Streak" />
 </div>
 
+<!-- Interactive Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=riwogerald&theme=tokyo-night&hide_border=true&area=true&custom_title=Gerald's%20Contribution%20Timeline" alt="Contribution Graph" />
+</div>
+
+<!-- Additional Metrics -->
+<div align="center">
+  
+  <!-- WakaTime Stats (if available) -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=riwogerald&theme=tokyonight&hide_border=true&layout=compact&custom_title=Weekly%20Development%20Breakdown" alt="WakaTime Stats" />
+  
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riwogerald&theme=tokyonight" alt="Profile Summary" />
+  
+</div>
+
+<!-- GitHub Metrics -->
+<div align="center">
+  <img src="https://metrics.lecoq.io/riwogerald?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Africa%2FNairobi" alt="GitHub Metrics" />
 </div>
 
 <div align="center">
@@ -240,6 +290,12 @@ Passionate about writing clean, maintainable code and solving complex technical 
 <div align="center">
 
 ### 🧮 **Advanced Precision Integer Calculator** - Full Stack Mathematical Engine
+
+<!-- Project Status Badges -->
+<img src="https://img.shields.io/badge/Status-✅%20Production%20Ready-brightgreen?style=flat-square&logo=checkmarx" alt="Production Ready"/>
+<img src="https://img.shields.io/badge/Performance-⚡%20Optimized-yellow?style=flat-square&logo=lightning" alt="Performance Optimized"/>
+<img src="https://img.shields.io/badge/Tests-🧪%20All%20Passing-success?style=flat-square&logo=pytest" alt="All Tests Passing"/>
+<img src="https://img.shields.io/badge/Deployment-🚀%20Auto-blue?style=flat-square&logo=netlify" alt="Auto Deployment"/>
 
 </div>
 
@@ -280,6 +336,12 @@ Passionate about writing clean, maintainable code and solving complex technical 
 
 ### 💰 **Mini Reconciliation Tool** - Financial Data Analysis Platform
 
+<!-- Project Status Badges -->
+<img src="https://img.shields.io/badge/Grade-🏆%20Enterprise%20Level-gold?style=flat-square&logo=enterprise" alt="Enterprise Grade"/>
+<img src="https://img.shields.io/badge/Security-🔒%20Client%20Side-green?style=flat-square&logo=security" alt="Client-side Security"/>
+<img src="https://img.shields.io/badge/Scale-📊%2050K%2B%20Records-purple?style=flat-square&logo=database" alt="High Scale"/>
+<img src="https://img.shields.io/badge/Efficiency-🚀%2090%25%20Time%20Saved-orange?style=flat-square&logo=clockify" alt="High Efficiency"/>
+
 </div>
 
 <div align="left">
@@ -319,6 +381,12 @@ Passionate about writing clean, maintainable code and solving complex technical 
 
 ### 🛡️ **Image Hash Spoofer** - Cryptographic Security Tool
 
+<!-- Project Status Badges -->
+<img src="https://img.shields.io/badge/Complexity-🧠%20Expert%20Level-red?style=flat-square&logo=hackaday" alt="Expert Level"/>
+<img src="https://img.shields.io/badge/Crypto-🔐%20Advanced-darkred?style=flat-square&logo=keycdn" alt="Advanced Cryptography"/>
+<img src="https://img.shields.io/badge/Performance-⚡%20Web%20Workers-blue?style=flat-square&logo=webassembly" alt="Web Workers"/>
+<img src="https://img.shields.io/badge/Interface-🖥️%20Dual%20Mode-cyan?style=flat-square&logo=codepen" alt="Dual Interface"/>
+
 </div>
 
 <div align="left">
@@ -357,6 +425,12 @@ Passionate about writing clean, maintainable code and solving complex technical 
 <div align="center">
 
 ### 💰 **Treasury Movement Simulator** - Advanced Financial Management System
+
+<!-- Project Status Badges -->
+<img src="https://img.shields.io/badge/Finance-💹%20Multi%20Currency-green?style=flat-square&logo=stripe" alt="Multi-Currency"/>
+<img src="https://img.shields.io/badge/Analytics-📈%20Real%20Time-purple?style=flat-square&logo=tableau" alt="Real-time Analytics"/>
+<img src="https://img.shields.io/badge/Testing-🧪%20Business%20Scenarios-orange?style=flat-square&logo=testing-library" alt="Business Testing"/>
+<img src="https://img.shields.io/badge/Architecture-🏢%20Enterprise-blue?style=flat-square&logo=architecture" alt="Enterprise Architecture"/>
 
 </div>
 
@@ -453,41 +527,60 @@ Passionate about writing clean, maintainable code and solving complex technical 
 </div>
 
 
+<!-- Enhanced Collaboration Section -->
 <div align="center">
 
 ### 🚀 **Open for Collaboration**
 
+<!-- Availability Badges -->
+<img src="https://img.shields.io/badge/📅%20Availability-Open%20Now-brightgreen?style=for-the-badge" alt="Available Now"/>
+<img src="https://img.shields.io/badge/💼%20Work%20Mode-Hybrid%20%2F%20Remote-blue?style=for-the-badge" alt="Work Mode"/>
+<img src="https://img.shields.io/badge/🌍%20Timezone-GMT%20%2B3%20%28EAT%29-orange?style=for-the-badge" alt="Timezone"/>
+
 </div>
 
+<!-- Interactive Cards Layout -->
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
 
-**Currently Open To:**
+### 🎤 **What I'm Looking For**
 
-  💼 **Full-time opportunities** in Full Stack Development 💼
-    
-  🚀 **Freelance projects** - Web applications & APIs 🚀
-    
-  🔧 **Open source contributions** - Python, JavaScript, React🔧
-    
-  💡 **Technical consulting** - Architecture & code reviews 💡
+💼 **Full-time Opportunities**  
+*Senior Developer | Full Stack | Team Lead*
 
+🚀 **Exciting Freelance Projects**  
+*Web Apps | APIs | System Architecture*
 
+🔧 **Open Source Contributions**  
+*Python | JavaScript | React | Node.js*
 
-**What I Bring:**
+💡 **Technical Consulting**  
+*Code Reviews | Architecture | Mentoring*
 
-  ✅ Production experience
-  
-  ✅ Strong problem-solving skills
-  
-  ✅ Excellent communication & teamwork
-  
-  ✅ Passion for clean, maintainable code
-  
-  ✅ Experience with agile methodologies
-  
-  ✅ Commitment to continuous learning
-  
+</td>
+<td align="center" width="50%">
+
+### 🎆 **What You Get**
+
+✅ **2+ Years Production Experience**  
+*Real-world battle-tested solutions*
+
+✅ **Full Stack Expertise**  
+*Frontend | Backend | Database | DevOps*
+
+✅ **Agile Team Player**  
+*Scrum | Kanban | Cross-functional collaboration*
+
+✅ **Quality-First Mindset**  
+*Testing | Documentation | Best Practices*
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
@@ -542,20 +635,70 @@ class Gerald:
 
 </div>
 
----
+<!-- Enhanced Footer Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
   
-  <img src="https://komarev.com/ghpvc/?username=riwogerald&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
+  <!-- Enhanced Social Proof -->
+  <img src="https://komarev.com/ghpvc/?username=riwogerald&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-red?style=for-the-badge" alt="Made with Love and Coffee"/>
+  <img src="https://img.shields.io/badge/Open%20Source-💚%20Advocate-green?style=for-the-badge" alt="Open Source Advocate"/>
   
+  <br/><br/>
+  
+  <!-- Signature & Quotes -->
   **⭐️ From [Gerald Riwo](https://github.com/riwogerald) with ❤️**
   
-  *"Complexity doesn't scare me. Stagnation does."*
+  <br/>
   
-  *"Every vulnerability has a lesson. Every exploit, a story worth understanding."*
+  <!-- Developer Philosophy -->
+  <div align="center">
+    <table>
+    <tr>
+    <td align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+    </td>
+    </tr>
+    </table>
+  </div>
   
-  *"The backend may be hidden, but it's where I leave my fingerprint."*
+  <br/>
   
-  <sub>| Always evolving, always learning 🚀 |</sub>
+  *"Complexity doesn't scare me. Stagnation does."* 🚀
+  
+  *"Every vulnerability has a lesson. Every exploit, a story worth understanding."* 🔍
+  
+  *"The backend may be hidden, but it's where I leave my fingerprint."* 💻
+  
+  <br/>
+  
+  <!-- Footer Stats -->
+  <img src="https://img.shields.io/github/last-commit/riwogerald/riwogerald?style=flat-square&color=36BCF7" alt="Last Updated"/>
+  <img src="https://img.shields.io/badge/Profile-Always%20Updated-brightgreen?style=flat-square" alt="Always Updated"/>
+  <img src="https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?style=flat-square&logo=github-actions" alt="Powered by GitHub Actions"/>
+  
+  <br/><br/>
+  
+  <sub>🌟 | Always evolving, always learning | 🌟</sub>
+  
+  <!-- Additional Social Links -->
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/gerald-riwo-8604192bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:riwo.gerald@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/riwogerald">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github" alt="GitHub"/>
+  </a>
+  
+</div>
+
+<!-- Thank you message -->
+<div align="center">
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Feel+free+to+reach+out+anytime!+%F0%9F%A4%9D" alt="Thank you message" />
 </div>
