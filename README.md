@@ -246,10 +246,7 @@ Passionate about writing clean, maintainable code and solving complex technical 
 <!-- Additional Metrics -->
 <div align="center">
   
-  <!-- WakaTime Stats (if available) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@riwogerald&theme=tokyonight&hide_border=true&layout=compact&custom_title=Weekly%20Development%20Breakdown" alt="WakaTime Stats" />
-  
-  <!-- Profile Summary -->
+   <!-- Profile Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riwogerald&theme=tokyonight" alt="Profile Summary" />
   
 </div>
