@@ -246,14 +246,21 @@ Passionate about writing clean, maintainable code and solving complex technical 
 <!-- Additional Metrics -->
 <div align="center">
   
-   <!-- Profile Summary -->
+  <!-- Profile Summary Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riwogerald&theme=tokyonight" alt="Profile Summary" />
+  
+  <!-- Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riwogerald&theme=tokyonight&utcOffset=3" alt="Productive Time" />
   
 </div>
 
-<!-- GitHub Metrics -->
+<!-- Alternative GitHub Metrics -->
 <div align="center">
-  <img src="https://metrics.lecoq.io/riwogerald?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Africa%2FNairobi" alt="GitHub Metrics" />
+  
+  <!-- Repositories Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riwogerald&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riwogerald&theme=tokyonight" alt="Most Used Language" />
+  
 </div>
 
 <div align="center">
