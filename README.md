@@ -302,22 +302,23 @@ Passionate about writing clean, maintainable code and solving complex technical 
 <div align="left">
 
 ![Main dashboard for the API Calculator.](Screenshots/apicalc/dashboard.png)
-**🔧 Tech Stack:** `Python` `React` `TypeScript` `Flask` `Tailwind CSS` `Netlify` `Arbitrary Precision Math`
+**🔧 Tech Stack:** `Python` `React 18` `TypeScript` `Flask` `Tailwind CSS` `Vite` `Matrix Operations` `Complex Numbers`
 
-**📝 Description:** A sophisticated arbitrary-precision calculator implemented without external math libraries. Features both a Python CLI with pure mathematical implementations and a modern React web interface. Supports advanced functions like trigonometry, logarithms, and multiple number bases.
+**📝 Description:** Comprehensive arbitrary-precision calculator with complex number support, matrix operations, and multiple deployment options. Features pure Python implementation without external libraries, modern React web interface, enhanced REPL, and REST API endpoints for maximum versatility.
 
 **✨ Key Features:**
 - 🔢 **Pure Implementation** - All mathematical functions built from scratch using Taylor series and iterative methods
-- 🌐 **Dual Interface** - Python REPL for maximum precision + React web app for accessibility  
+- 🧮 **Complex Numbers** - Full complex arithmetic (3+4i), trigonometric, exponential, and logarithmic functions
+- 🔲 **Matrix Operations** - Complete matrix arithmetic, determinant, inverse, transpose with arbitrary precision
+- 🌐 **Triple Interface** - Enhanced Python REPL + React web app + Flask REST API
 - 📊 **Multiple Bases** - Binary, octal, decimal, hexadecimal, and custom base support (2-36)
-- ⚡ **Advanced Math** - Trigonometric, logarithmic, exponential functions with arbitrary precision
-- 🧪 **Comprehensive Testing** - 14 Python tests + 14 web interface tests, all passing
+- 🧪 **Comprehensive Testing** - 14 Python tests + 14 web interface tests + performance benchmarks
 
 **🎯 Technical Achievements:**
-- Implemented Karatsuba multiplication for large numbers (performance optimization)
-- Built pure trigonometric functions using Taylor series expansion
-- Created custom Pi calculation using Machin's formula
-- Designed hybrid architecture supporting both offline and API-driven calculations
+- Implemented complex number arithmetic without external libraries (supports sin(1+2i), sqrt(-1))
+- Built complete matrix operations with arbitrary precision elements and complex matrix support
+- Created dual deployment architecture: static (Netlify) + full-stack (Flask API)
+- Designed enhanced REPL with history, menu system, and advanced mathematical functions
 
 </div>
 
@@ -347,22 +348,23 @@ Passionate about writing clean, maintainable code and solving complex technical 
 <div align="left">
 
 ![Main dashboard for the Mini Reconciliation Tool.](Screenshots/minirecon/dashboard.png)
-**🔧 Tech Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `Papa Parse` `Lucide React` `CSV Processing`
+**🔧 Tech Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `Chart.js` `jsPDF` `Multi-Format Processing` `Advanced Analytics`
 
-**📝 Description:** Enterprise-grade financial reconciliation tool that compares transaction data between internal systems and payment processors. Automatically identifies discrepancies, matches transactions, and generates comprehensive reports for financial compliance.
+**📝 Description:** Enterprise-grade financial reconciliation platform supporting multi-format file processing (CSV, Excel, JSON, TSV), batch operations, and advanced analytics dashboard. Features intelligent transaction matching, comprehensive reporting, and AI-powered insights for financial compliance and business intelligence.
 
 **✨ Key Features:**
-- 🔍 **Smart Transaction Matching** - Intelligent algorithms match transactions by reference ID with tolerance handling
-- 📊 **Real-time Analytics** - Live discrepancy detection with visual highlighting and categorization
-- 📈 **Professional Reporting** - Comprehensive dashboards with export capabilities (CSV, timestamped)
-- 🔒 **Client-side Security** - All processing happens locally, no data leaves your browser
-- 📱 **Enterprise UX** - Responsive design with drag-and-drop uploads and pagination
+- 📄 **Multi-Format Support** - CSV, Excel (.xlsx/.xls), JSON, TSV with cross-format compatibility
+- 📁 **Batch Processing** - Handle multiple file pairs simultaneously with queue management and progress tracking
+- 🧠 **Advanced Analytics** - AI-powered insights, interactive charts, historical trends, and performance scoring
+- 📈 **Professional Reporting** - PDF generation with charts, executive summaries, and comprehensive analytics
+- 🔒 **Client-side Security** - All processing happens locally, no data transmission to external servers
+- 📊 **Smart Analytics** - Automated anomaly detection, risk assessment, and trend analysis with historical persistence
 
 **🎯 Business Impact:**
-- Processes 50,000+ transactions efficiently with optimized algorithms
-- Reduces manual reconciliation time by 90% through automation
-- Provides audit-ready reports with detailed mismatch analysis
-- Handles multiple CSV formats with robust error handling and validation
+- Processes 50,000+ transactions across multiple formats with optimized parsing algorithms
+- Supports enterprise workflows with batch processing for high-volume reconciliation cycles
+- Provides business intelligence through advanced analytics dashboard with trend analysis
+- Generates audit-ready PDF reports with professional formatting and comprehensive insights
 
 </div>
 
@@ -392,22 +394,23 @@ Passionate about writing clean, maintainable code and solving complex technical 
 <div align="left">
 
 ![Main dashboard for the Image Hash Spoofer.](Screenshots/imghash/dashboard.png)
-**🔧 Tech Stack:** `Node.js` `Vanilla JavaScript` `Web Workers` `HTML5 Canvas` `Cryptography APIs` `Binary File Manipulation`
+**🔧 Tech Stack:** `Node.js` `Jest` `Chart.js` `Web Workers` `HTML5 Canvas` `Cryptography APIs` `Performance Analytics` `CI/CD Pipeline`
 
-**📝 Description:** Advanced cryptographic tool that modifies image file hashes to start with specific prefixes while preserving visual appearance. Demonstrates deep understanding of file formats, hash algorithms, and binary manipulation techniques.
+**📝 Description:** Advanced cryptographic tool with comprehensive testing suite, performance analytics dashboard, and CI/CD pipeline. Features optimized hash collision algorithms, multi-platform testing, performance benchmarking, and professional analytics for security research and educational purposes.
 
 **✨ Key Features:**
 - 🖼️ **Visual Preservation** - Images remain identical to human eye through invisible metadata injection
-- 🔐 **Multi-Algorithm** - Supports SHA-256 and SHA-512 hash algorithms with configurable targeting
-- 📱 **Dual Interface** - Web-based GUI with progress tracking + Node.js CLI for batch processing
-- ⚡ **Optimized Performance** - Web Workers prevent UI blocking, smart iteration strategies
-- 🎯 **Format Support** - PNG (tEXt chunks) and JPEG (comment segments) with proper structure preservation
+- 📈 **Performance Analytics** - Interactive dashboard with success rates, difficulty prediction, and performance tracking
+- 🧪 **Comprehensive Testing** - Multi-platform testing (Ubuntu, Windows, macOS) with performance benchmarks
+- 🔄 **CI/CD Pipeline** - Automated testing on Node.js 18.x, 20.x, 22.x with security scanning
+- ⚡ **Optimized Performance** - Pre-computed lookup tables, adaptive progress reporting, optimized memory usage
+- 🎯 **Advanced Architecture** - Web Workers, performance benchmarking, regression detection
 
 **🎯 Technical Deep Dive:**
-- Implements brute-force hash collision with optimized search algorithms
-- Maintains file format integrity with proper CRC32 checksums (PNG) and segment structure (JPEG)
-- Uses binary manipulation to inject invisible metadata without affecting image rendering
-- Demonstrates understanding of cryptographic principles and file format specifications
+- Implements performance optimizations achieving 15-30% faster processing with reduced memory consumption
+- Features comprehensive analytics with difficulty prediction and historical performance tracking
+- Built automated CI/CD pipeline with multi-platform testing and vulnerability scanning
+- Demonstrates advanced software engineering practices with extensive test coverage and performance metrics
 
 </div>
 
@@ -437,22 +440,23 @@ Passionate about writing clean, maintainable code and solving complex technical 
 <div align="left">
 
 ![Main dashboard for the Treasury Movement Simulator.](Screenshots/tmsim/dashboard.png)
-**🔧 Tech Stack:** `React 18` `TypeScript` `Tailwind CSS` `Vite` `Vitest` `Lucide React` `Financial APIs`
+**🔧 Tech Stack:** `React 18` `TypeScript` `Tailwind CSS` `Vite` `SVG Charts` `Advanced Analytics` `Risk Assessment` `Report Generation`
 
-**📝 Description:** Sophisticated financial management application for simulating treasury operations across multiple currencies and account types. Features real-time currency conversion, comprehensive transaction processing, and advanced analytics for financial institutions and businesses.
+**📝 Description:** Comprehensive treasury management platform with advanced analytics, risk assessment, and reporting capabilities. Features multi-currency operations, interactive dashboards, real-time KPI tracking, and professional report generation for enterprise financial management.
 
 **✨ Key Features:**
-- 💱 **Multi-Currency Engine** - Real-time conversion between KES, USD, and NGN with live exchange rates
-- 🏦 **Account Management** - Support for Mpesa, Bank, Wallet, and Corporate account types
-- 📊 **Advanced Analytics** - Dashboard with transaction insights, balance summaries, and performance metrics
-- ⚡ **Test Scenarios** - Built-in business scenario runner for system validation and stress testing
-- 🔐 **Financial Validation** - Comprehensive checks for insufficient funds, account status, and compliance
+- 💱 **Multi-Currency Engine** - Real-time conversion between KES, USD, and NGN with configurable exchange rates
+- 📈 **Interactive Analytics** - Real-time charts, KPIs, trend analysis with SVG-based visualizations
+- 🚨 **Risk Assessment** - Automated scoring for liquidity, concentration, and volatility risks with recommendations
+- 📄 **Advanced Reporting** - Generate detailed reports in JSON/CSV with customizable date ranges and filters
+- 🏦 **Account Management** - Support for Mpesa, Bank, Wallet, and Corporate account types with performance tracking
+- 📉 **Performance Analytics** - Account performance ranking, currency distribution analysis, and trend indicators
 
 **🎯 Financial Innovation:**
-- Processes high-volume transactions with real-time balance updates
-- Implements sophisticated currency arbitrage and conversion algorithms  
-- Provides audit-ready transaction history with advanced filtering capabilities
-- Supports scheduled transfers and automated payment processing
+- Provides comprehensive risk metrics with automated alerts for unusual patterns
+- Implements advanced analytics engine with historical data comparison and growth metrics
+- Features interactive dashboard with line, bar, pie, donut, and area chart visualizations
+- Supports enterprise-grade reporting with flexible export options and professional formatting
 
 </div>
 
@@ -462,6 +466,51 @@ Passionate about writing clean, maintainable code and solving complex technical 
 [![GitHub](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riwogerald/treasury-movement-simulator)
 [![Test Runner](https://img.shields.io/badge/🧪_Business_Tests-Scenarios-orange?style=for-the-badge&logo=testing-library&logoColor=white)](https://treasury-move-sim.netlify.app/#test-scenarios)
 [![Financial Docs](https://img.shields.io/badge/💼_User_Guide-Documentation-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/riwogerald/treasury-movement-simulator#-usage-guide)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📚 **Book Library Management System** - Full-Stack Ruby on Rails Demo
+
+<!-- Project Status Badges -->
+<img src="https://img.shields.io/badge/Framework-🛤️%20Rails%20Pattern-red?style=flat-square&logo=rubyonrails" alt="Rails Pattern"/>
+<img src="https://img.shields.io/badge/Authentication-🔐%20Session%20Based-green?style=flat-square&logo=auth0" alt="Session Authentication"/>
+<img src="https://img.shields.io/badge/UI%2FUX-🎨%20Modern%20Design-purple?style=flat-square&logo=tailwindcss" alt="Modern UI/UX"/>
+<img src="https://img.shields.io/badge/Demo-📱%20Portfolio%20Ready-orange?style=flat-square&logo=netlify" alt="Portfolio Demo"/>
+
+</div>
+
+<div align="left">
+
+![Main dashboard for the Book Library Management System.](Screenshots/rubylibrary/dashboard.png)
+**🔧 Tech Stack:** `HTML5` `CSS3` `JavaScript ES6+` `Tailwind CSS` `Ruby on Rails Concepts` `Local Storage`
+
+**📝 Description:** Modern full-stack library management system demonstrating Ruby on Rails development patterns through a responsive web application. Features comprehensive book catalog, user authentication, borrowing system, and professional user dashboards for library management.
+
+**✨ Key Features:**
+- 🔐 **User Authentication System** - Secure registration, login with professional demo accounts (Professor, Librarian, Researcher)
+- 📚 **Advanced Book Management** - Search, filter, categorize with ISBN validation and detailed metadata
+- 🔄 **Smart Borrowing System** - One-click borrowing, automatic due dates, overdue detection, return management
+- 👤 **User Dashboard** - Personal profiles, borrowing history, due date tracking with visual indicators
+- 🎨 **Responsive Design** - Mobile-first Tailwind CSS implementation with smooth animations
+
+**🎯 Technical Achievements:**
+- Implemented MVC architecture patterns with proper separation of concerns
+- Built complex state management system with LocalStorage persistence
+- Created realistic user personas with professional credentials for portfolio demonstration
+- Designed RESTful routing patterns and Active Record-style data relationships
+
+</div>
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Library_System-Live_Demo-success?style=for-the-badge&logo=netlify&logoColor=white)](https://book-library-appio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riwogerald/book_library)
+[![User Guide](https://img.shields.io/badge/👤_Demo_Accounts-Test_Login-blue?style=for-the-badge&logo=user&logoColor=white)](https://book-library-appio.netlify.app/#demo-credentials)
+[![Documentation](https://img.shields.io/badge/📖_Features_Guide-How_To_Use-green?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/riwogerald/book_library#-features-demonstrated)
 
 </div>
 
@@ -481,6 +530,7 @@ Passionate about writing clean, maintainable code and solving complex technical 
 | **💰 Reconciliation** | 6 Technologies | ✅ **Live** | **Enterprise** | Financial Compliance |
 | **🛡️ Hash Spoofer** | 5 Core Technologies | ✅ **Live** | **Expert** | Security Research |
 | **💰 Treasury Simulator** | 6 Technologies | ✅ **Live** | **Enterprise** | Financial Systems |
+| **📚 Library System** | 6 Technologies | ✅ **Live** | **Full-Stack** | Library Management |
 
 
 ## 🌱 Philosophy & Approach
